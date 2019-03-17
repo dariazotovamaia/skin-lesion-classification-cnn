@@ -1,2 +1,2 @@
-# skin-lesion-classification-cnn
-Skin lesion classification using CNN
+# Skin lesion classification using CNN
+Final project of "Computer Aided Diagnosis" class
